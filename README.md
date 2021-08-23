@@ -19,7 +19,7 @@
 <tr><th scope='row'>Nationality</th><td>English</td></tr><tr><th scope='row'>Occupation</th><td>Junior Software Developer</td></tr>
 +tr><th scope='row'>Skills</th><td>HTML, CSS, Js, Python, git</td></tr>
 <tr><th scope='row'>Other Name</th><td>KeiraJCoder</td></tr>
-<tr><th scope='row'>Known For</th><td>TheAbbie</td></tr>
+<tr><th scope='row'>Known For</th><td>Doctor Who Escape</td></tr>
 </tbody>
 </table> 
 
