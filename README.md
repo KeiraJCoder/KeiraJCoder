@@ -3,11 +3,6 @@
 
 <table>
 <caption>Keira Jarvis</caption>
-<thead>
-<tr>
-<th colspan="2">Quick Info</th>
-</tr>
-</thead>
 <tbody><th colspan="2">Quick Info</th>
 </tr>
 </thead>
