@@ -6,7 +6,15 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m <th colspan="2">Quick Info</th>
+- 🌱 I’m 
+<table>
+<caption>Abhishek Chaudhary</caption>
+<thead>
+<tr>
+<th colspan="2">Quick Info</th>
+</tr>
+</thead>
+<tbody><th colspan="2">Quick Info</th>
 </tr>
 </thead>
 <tbody>
