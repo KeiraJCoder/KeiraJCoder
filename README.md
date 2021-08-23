@@ -19,6 +19,7 @@
 </tbody>
 </table> 
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeiraJCoder&layout=compact&theme=radical" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=KeiraJCoder&show_icons=true&include_all_commits=true&theme=radical" alt="Keira's github stats" />
 <!--
 **KeiraJCoder/KeiraJCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
