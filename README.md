@@ -15,7 +15,7 @@
 <tr><th scope='row'>Name</th><td>Keira Jarvis</td></tr>
 <tr><th scope='row'>Born</th><td><time datetime="2002-01-11 08:00">01, August, 1987</time></td></tr>
 <tr><th scope='row'>Education</th><td>Bachelors degree in Counselling skills and Psychology.</td></tr>
-<tr><th scope='row'>Alma mater</th><td>University of Chester/td></tr>
+<tr><th scope='row'>University</th><td>University of Chester</td></tr>
 <tr><th scope='row'>Nationality</th><td>English</td></tr><tr><th scope='row'>Occupation</th><td>Junior Software Developer</td></tr>
 +tr><th scope='row'>Skills</th><td>HTML, CSS, Js, Python, git</td></tr>
 <tr><th scope='row'>Other Name</th><td>KeiraJCoder</td></tr>
