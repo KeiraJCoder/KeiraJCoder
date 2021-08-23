@@ -19,9 +19,11 @@
 <tr><th scope='row'>Skills</th><td>HTML, CSS, JavaScript, Node.js, git, Python</td></tr>
 <tr><th scope='row'>Other Name</th><td>KeiraJCoder</td></tr>
 <tr><th scope='row'>Known For</th><td>Being obsessed with Doctor Who</td></tr>
-</tbody>
+
+ </style>
+ </tbody>
 </table>
-</style>
+
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeiraJCoder&layout=compact&theme=radical" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=KeiraJCoder&show_icons=true&include_all_commits=true&theme=radical" alt="Keira's github stats" />
