@@ -2,8 +2,9 @@
 
 
 <table>
-<caption>Keira Jarvis</caption>
-<tbody><th colspan="2">Quick Info</th>
+  <tr>
+<caption> Keira Jarvis </caption>
+<tbody> <th colspan="2">Quick Info</th>
 </tr>
 </thead>
 <tbody>
