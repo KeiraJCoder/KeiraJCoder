@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 <table>
-<style="text-align:center;">
 <caption>Keira Jarvis</caption>
 <thead>
 <tr>
@@ -18,9 +17,7 @@
 <tr><th scope='row'>Occupation</th><td>Junior Developer (in training)</td></tr>
 <tr><th scope='row'>Skills</th><td>HTML, CSS, JavaScript, Node.js, git, Python</td></tr>
 <tr><th scope='row'>Other Name</th><td>KeiraJCoder</td></tr>
-<tr><th scope='row'>Known For</th><td>Being obsessed with Doctor Who</td></tr>
-
- </style>
+ <tr><th scope='row'>Known For</th><td>Being obsessed with Doctor Who</td></tr>
  </tbody>
 </table>
 
