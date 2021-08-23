@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<table style="text-align:center;">
+<table>
+<style="text-align:center;">
 <caption>Keira Jarvis</caption>
 <thead>
 <tr>
