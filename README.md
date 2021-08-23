@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <table>
-<p style="text-align:center;">
+<style="text-align:center;">
 <caption>Keira Jarvis</caption>
 <thead>
 <tr>
@@ -21,7 +21,7 @@
 <tr><th scope='row'>Known For</th><td>Being obsessed with Doctor Who</td></tr>
 </tbody>
 </table>
-</p>
+</style>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeiraJCoder&layout=compact&theme=radical" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=KeiraJCoder&show_icons=true&include_all_commits=true&theme=radical" alt="Keira's github stats" />
