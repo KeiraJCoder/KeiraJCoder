@@ -24,14 +24,14 @@
  <tr><th scope='row'>Known For</th><td>Being obsessed with Doctor Who and all things weeb</td></tr>
  </tbody>
 </table>
- 
+ <p>Follow me on LinkedIn </p>
 <a href="https://linkedin.com/in/keirajcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keirajcoder" height="30" width="40" /></a>
 </p>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeiraJCoder&layout=compact&theme=radical" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=KeiraJCoder&show_icons=true&include_all_commits=true&theme=radical" alt="Keira's github stats" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=keirajcoder&show_icons=true&locale=en&layout=compact" alt="keirajcoder" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=keirajcoder&show_icons=true&locale=en&layout=compact" alt="keirajcoder" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keirajcoder&show_icons=true&locale=en" alt="keirajcoder" /></p>
 
