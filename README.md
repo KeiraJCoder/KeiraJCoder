@@ -1,12 +1,12 @@
 <body align="center">
 
 
-<table>
-<caption>Keira Jarvis</caption>
+<table align="center">
+<caption align="center">Keira Jarvis</caption>
 <thead>
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=keirajcoder&label=Profile%20views&color=0e75b6&style=flat" alt="keirajcoder" /> </p>
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=keirajcoder&label=Profile%20views&color=0e75b6&style=flat" alt="keirajcoder" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keirajcoder" alt="keirajcoder" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keirajcoder" alt="keirajcoder" /></a> </p>
 <tr>
 <th colspan="2">Quick Info</th>
 </tr>
