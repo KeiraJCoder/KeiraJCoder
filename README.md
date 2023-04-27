@@ -1,6 +1,4 @@
-<body>
-
-<p align="center">
+<body align="center">
 
 
 <table>
