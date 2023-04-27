@@ -1,5 +1,6 @@
 <body>
 
+<p align="center">
 
 
 <table>
@@ -37,4 +38,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keirajcoder&show_icons=true&locale=en" alt="keirajcoder" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keirajcoder&" alt="keirajcoder" /></p>
+
+</p>
 </body>
