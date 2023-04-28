@@ -3,7 +3,7 @@
 
 <table align="center">
 <p align="center"><caption align="center">Keira Jarvis</caption></p>
-<thead>
+<thead align="center">
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=keirajcoder&label=Profile%20views&color=0e75b6&style=flat" alt="keirajcoder" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keirajcoder" alt="keirajcoder" /></a> </p>
@@ -23,9 +23,10 @@
 <tr><th scope='row'>Other Name</th><td>KeiraJCoder</td></tr>
  <tr><th scope='row'>Known For</th><td>Being obsessed with Doctor Who and all things weeb</td></tr>
  </tbody>
-</table>
  <p align="center">Follow me on LinkedIn </p>
 <a align="center" href="https://linkedin.com/in/keirajcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keirajcoder" height="30" width="40" /></a>
+</table>
+ 
 </p>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeiraJCoder&layout=compact&theme=radical" />
